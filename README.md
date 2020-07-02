@@ -11,6 +11,12 @@ The reason that I wrote this was so that I could give it hashes that I knew were
 
 Currently, the script does not merge similar versions from the same AV.
 
+To run it, first install the python requirements by doing (Requires python 3.8):
+    
+    pipenv install
+
+
+
 ## To be added in later:
 
 - The ability to add arguments to input to the program.
